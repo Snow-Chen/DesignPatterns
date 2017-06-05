@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrototypePattern", "Prototy
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AdapterPattern", "AdapterPattern\AdapterPattern.vcxproj", "{59CB2554-54BD-4E2E-8AEA-4F50EF54CE31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BridgePattern", "BridgePattern\BridgePattern.vcxproj", "{6C28629C-3BF3-4EB7-87AD-1A641DB2C090}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{59CB2554-54BD-4E2E-8AEA-4F50EF54CE31}.Debug|Win32.Build.0 = Debug|Win32
 		{59CB2554-54BD-4E2E-8AEA-4F50EF54CE31}.Release|Win32.ActiveCfg = Release|Win32
 		{59CB2554-54BD-4E2E-8AEA-4F50EF54CE31}.Release|Win32.Build.0 = Release|Win32
+		{6C28629C-3BF3-4EB7-87AD-1A641DB2C090}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C28629C-3BF3-4EB7-87AD-1A641DB2C090}.Debug|Win32.Build.0 = Debug|Win32
+		{6C28629C-3BF3-4EB7-87AD-1A641DB2C090}.Release|Win32.ActiveCfg = Release|Win32
+		{6C28629C-3BF3-4EB7-87AD-1A641DB2C090}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
